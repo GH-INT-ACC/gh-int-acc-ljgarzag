@@ -15,3 +15,5 @@ megalinter-reports/
 
 # Build Artifacts
 dist/
+
+.vs
